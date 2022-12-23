@@ -1,0 +1,200 @@
+The function has executed successfully in 4.30 seconds.
+4.447175
+The function has executed successfully in 4.15 seconds.
+4.249731
+The function has executed successfully in 4.37 seconds.
+4.459303
+The function has executed successfully in 4.24 seconds.
+4.339477
+The function has executed successfully in 4.23 seconds.
+4.304502
+The function has executed successfully in 4.28 seconds.
+4.356722
+The function has executed successfully in 4.62 seconds.
+4.707615
+The function has executed successfully in 4.39 seconds.
+4.475067
+The function has executed successfully in 4.23 seconds.
+4.314370
+The function has executed successfully in 4.22 seconds.
+4.299559
+The function has executed successfully in 4.21 seconds.
+4.303393
+The function has executed successfully in 3.95 seconds.
+4.066091
+The function has executed successfully in 4.37 seconds.
+4.437369
+The function has executed successfully in 4.56 seconds.
+4.646129
+The function has executed successfully in 4.34 seconds.
+4.417219
+The function has executed successfully in 4.25 seconds.
+4.326065
+The function has executed successfully in 4.58 seconds.
+4.679386
+The function has executed successfully in 4.43 seconds.
+4.517703
+The function has executed successfully in 4.43 seconds.
+4.522998
+The function has executed successfully in 4.47 seconds.
+4.573940
+The function has executed successfully in 4.22 seconds.
+4.314333
+The function has executed successfully in 4.33 seconds.
+4.410941
+The function has executed successfully in 4.43 seconds.
+4.556075
+The function has executed successfully in 4.34 seconds.
+4.405211
+The function has executed successfully in 4.23 seconds.
+4.312177
+The function has executed successfully in 4.12 seconds.
+4.203677
+The function has executed successfully in 4.42 seconds.
+4.502973
+The function has executed successfully in 4.12 seconds.
+4.205742
+The function has executed successfully in 4.18 seconds.
+4.249217
+The function has executed successfully in 4.30 seconds.
+4.381940
+The function has executed successfully in 3.96 seconds.
+4.046427
+The function has executed successfully in 3.96 seconds.
+4.050949
+The function has executed successfully in 3.95 seconds.
+4.045310
+The function has executed successfully in 3.90 seconds.
+3.991829
+The function has executed successfully in 3.87 seconds.
+3.972908
+The function has executed successfully in 4.27 seconds.
+4.351712
+The function has executed successfully in 3.92 seconds.
+4.017549
+The function has executed successfully in 3.92 seconds.
+4.003437
+The function has executed successfully in 3.93 seconds.
+4.019521
+The function has executed successfully in 3.95 seconds.
+4.016147
+The function has executed successfully in 3.99 seconds.
+4.062973
+The function has executed successfully in 4.04 seconds.
+4.112239
+The function has executed successfully in 4.03 seconds.
+4.114546
+The function has executed successfully in 3.97 seconds.
+4.038483
+The function has executed successfully in 4.22 seconds.
+4.327953
+The function has executed successfully in 3.97 seconds.
+4.072462
+The function has executed successfully in 4.00 seconds.
+4.081475
+The function has executed successfully in 3.88 seconds.
+3.969618
+The function has executed successfully in 3.87 seconds.
+3.944187
+The function has executed successfully in 4.23 seconds.
+4.316107
+The function has executed successfully in 3.92 seconds.
+4.013861
+The function has executed successfully in 4.01 seconds.
+4.069980
+The function has executed successfully in 3.93 seconds.
+4.009773
+The function has executed successfully in 3.88 seconds.
+3.985132
+The function has executed successfully in 4.15 seconds.
+4.243375
+The function has executed successfully in 4.06 seconds.
+4.158067
+The function has executed successfully in 4.09 seconds.
+4.185305
+The function has executed successfully in 3.89 seconds.
+3.986430
+The function has executed successfully in 3.97 seconds.
+4.047705
+The function has executed successfully in 4.09 seconds.
+4.160160
+The function has executed successfully in 3.89 seconds.
+3.986258
+The function has executed successfully in 3.88 seconds.
+3.971650
+The function has executed successfully in 3.78 seconds.
+3.877215
+The function has executed successfully in 3.90 seconds.
+3.995167
+The function has executed successfully in 4.02 seconds.
+4.107709
+The function has executed successfully in 4.04 seconds.
+4.130269
+The function has executed successfully in 3.99 seconds.
+4.060995
+The function has executed successfully in 4.21 seconds.
+4.288495
+The function has executed successfully in 4.06 seconds.
+4.131017
+The function has executed successfully in 3.97 seconds.
+4.052635
+The function has executed successfully in 3.86 seconds.
+3.935265
+The function has executed successfully in 3.86 seconds.
+3.958091
+The function has executed successfully in 4.12 seconds.
+4.209617
+The function has executed successfully in 3.97 seconds.
+4.040596
+The function has executed successfully in 3.95 seconds.
+4.045472
+The function has executed successfully in 3.97 seconds.
+4.051180
+The function has executed successfully in 3.96 seconds.
+4.055843
+The function has executed successfully in 3.91 seconds.
+3.993785
+The function has executed successfully in 3.97 seconds.
+4.030491
+The function has executed successfully in 3.93 seconds.
+4.023329
+The function has executed successfully in 4.16 seconds.
+4.234874
+The function has executed successfully in 4.02 seconds.
+4.085647
+The function has executed successfully in 3.94 seconds.
+4.049954
+The function has executed successfully in 3.99 seconds.
+4.049564
+The function has executed successfully in 3.86 seconds.
+3.961070
+The function has executed successfully in 3.99 seconds.
+4.082505
+The function has executed successfully in 4.20 seconds.
+4.288323
+The function has executed successfully in 3.91 seconds.
+3.997612
+The function has executed successfully in 3.91 seconds.
+4.005192
+The function has executed successfully in 4.17 seconds.
+4.265823
+The function has executed successfully in 4.09 seconds.
+4.193862
+The function has executed successfully in 4.10 seconds.
+4.192935
+The function has executed successfully in 3.91 seconds.
+3.986072
+The function has executed successfully in 3.99 seconds.
+4.068867
+The function has executed successfully in 4.01 seconds.
+4.080095
+The function has executed successfully in 4.07 seconds.
+4.154667
+The function has executed successfully in 4.01 seconds.
+4.076329
+The function has executed successfully in 3.77 seconds.
+3.860130
+The function has executed successfully in 4.16 seconds.
+4.247974
+The function has executed successfully in 3.87 seconds.
+3.959764
